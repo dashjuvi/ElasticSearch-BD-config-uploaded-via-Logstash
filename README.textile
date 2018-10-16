@@ -1,3 +1,9 @@
+# Conf File.
+** bind to your ipv4 host address and transport host, mine was the same
+** port 9200 default
+** enable allocation for shards (error in v.01)
+** just used 1 node due to limitations of my pc, can be set to distributed to balance the workers.
+
 h1. Elasticsearch
 
 h2. A Distributed RESTful Search Engine
